@@ -10,3 +10,10 @@ C:\Users\SISTEMAS2-33\Desktop\ASP.NET-WebForms-Example-master\Web\obj\Debug\Web.
 C:\Users\SISTEMAS2-33\Desktop\ASP.NET-WebForms-Example-master\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
 C:\Users\SISTEMAS2-33\Desktop\ASP.NET-WebForms-Example-master\Web\obj\Debug\Web.dll
 C:\Users\SISTEMAS2-33\Desktop\ASP.NET-WebForms-Example-master\Web\obj\Debug\Web.pdb
+C:\Users\ronyo\Desktop\rony\web-statica-2\Web\bin\Web.dll.config
+C:\Users\ronyo\Desktop\rony\web-statica-2\Web\bin\Web.dll
+C:\Users\ronyo\Desktop\rony\web-statica-2\Web\bin\Web.pdb
+C:\Users\ronyo\Desktop\rony\web-statica-2\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+C:\Users\ronyo\Desktop\rony\web-statica-2\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\ronyo\Desktop\rony\web-statica-2\Web\obj\Debug\Web.dll
+C:\Users\ronyo\Desktop\rony\web-statica-2\Web\obj\Debug\Web.pdb
